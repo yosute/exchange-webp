@@ -1,0 +1,8 @@
+{
+  "name": "webp-exchanger",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "scripts":{
+    "done":"php exchange_webp.php"
+  }
+}
